@@ -9,4 +9,4 @@ iii. The Admin can add a book in the book-record.
 
 iv. User can search the book record on the basis of book title.
 
-iv. Admin can delete and update a book from the particular book record.
+v. Admin can delete and update a book from the particular book record.
